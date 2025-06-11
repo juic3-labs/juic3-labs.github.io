@@ -2,7 +2,7 @@
   "name": "juic3.io",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://rdy1215.github.io/rdy1215.github.io",
+  "homepage": "https://juic3-labs/juic3-labs.github.io",
   "dependencies": {
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.0",
@@ -12,6 +12,7 @@
     "@testing-library/react": "^16.2.0",
     "@testing-library/user-event": "^13.5.0",
     "gh-pages": "^6.3.0",
+    "juic3.io": "file:",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-router-dom": "^7.1.5",
