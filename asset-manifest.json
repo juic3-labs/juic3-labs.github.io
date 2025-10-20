@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/juic3-labs.github.io/static/css/main.f7dc856f.css",
-    "main.js": "/juic3-labs.github.io/static/js/main.54cc57fa.js",
+    "main.css": "/juic3-labs.github.io/static/css/main.f4978041.css",
+    "main.js": "/juic3-labs.github.io/static/js/main.7a4efe48.js",
     "index.html": "/juic3-labs.github.io/index.html",
-    "main.f7dc856f.css.map": "/juic3-labs.github.io/static/css/main.f7dc856f.css.map",
-    "main.54cc57fa.js.map": "/juic3-labs.github.io/static/js/main.54cc57fa.js.map"
+    "main.f4978041.css.map": "/juic3-labs.github.io/static/css/main.f4978041.css.map",
+    "main.7a4efe48.js.map": "/juic3-labs.github.io/static/js/main.7a4efe48.js.map"
   },
   "entrypoints": [
-    "static/css/main.f7dc856f.css",
-    "static/js/main.54cc57fa.js"
+    "static/css/main.f4978041.css",
+    "static/js/main.7a4efe48.js"
   ]
 }
