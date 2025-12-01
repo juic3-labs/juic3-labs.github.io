@@ -199,8 +199,8 @@ const AwddVipPage = () => {
                 {/* G2M Strategy */}
                 <section id="g2m" className="py-20 bg-white">
                     <div className="container mx-auto px-4">
-                        <div className="flex flex-col md:flex-row gap-12 items-center">
-                            <div className="md:w-1/2">
+                        <div className="flex flex-col gap-12 items-center">
+                            <div className="w-full">
                                 <span className="text-[#9A0095] font-bold tracking-wider uppercase text-sm">STRATEGY</span>
                                 <h2 className="text-3xl md:text-4xl font-bold mt-2 mb-6">🚀 G2M 策略</h2>
                                 <div className="space-y-6">
@@ -231,12 +231,6 @@ const AwddVipPage = () => {
                                             <p className="text-slate-600">將累積的設備與電力資料轉化為演算法優勢，加速複製至其他區域市場。</p>
                                         </div>
                                     </div>
-                                </div>
-                            </div>
-                            <div className="md:w-1/2 bg-slate-100 rounded-2xl p-8 min-h-[300px] flex items-center justify-center">
-                                <div className="text-center text-slate-400">
-                                    <i className="fa-solid fa-rocket text-6xl mb-4"></i>
-                                    <p>Go-to-Market Strategy</p>
                                 </div>
                             </div>
                         </div>
